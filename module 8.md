@@ -284,8 +284,9 @@ int result; result = square(); printf("Square of the number is: %d\n", result); 
 Output:
 
 
-![Uploading image.png…]()
 
+
+![image](https://github.com/user-attachments/assets/ea2d6e06-2e78-4257-8611-c6d5ee7e78e8)
 
 
 
